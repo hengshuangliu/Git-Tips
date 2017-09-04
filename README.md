@@ -17,7 +17,7 @@ Git是一个“**分布式版本管理工具**”，简单的理解版本管理�
 ## Tips
 ### 首次使用简单例子
 ```sh
-$ git add README.md
+$ git echo "readme" >> README.md
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
