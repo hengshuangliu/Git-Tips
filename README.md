@@ -51,6 +51,12 @@ $ git commit -m "描述"
 $ git push
 ```
 
+
+### 查看远程库信息
+```sh
+$ git remote -v
+```
+
 ### 从远程仓库拉取
 ```sh
 $ git pull
